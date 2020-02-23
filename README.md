@@ -1,4 +1,3 @@
 # PneumoniaDetection
 
-Research paper depicting these results has already been accepted in MDPI Sensors Special Issue "Machine Learning for Biomedical Imaging and Sensing"
-.
+Research paper depicting these results has already been accepted in MDPI Sensors Special Issue "Machine Learning for Biomedical Imaging and Sensing". The link for the paper: https://www.mdpi.com/1424-8220/20/4/1068
